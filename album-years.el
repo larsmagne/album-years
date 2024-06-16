@@ -21,48 +21,50 @@
   (with-temp-buffer
     (insert-file-contents "albums.txt")
     (while (re-search-forward "https://.*" nil t)
-      (let ((url (match-string 0)))
-	(with-current-buffer (url-retrieve-synchronously url)
-	  (goto-char (point-min))
-	  (re-search-forward "\n\n")
-	  (write-region (point) (point-max)
-			(expand-file-name (concat (sha1 url) ".jpeg")
-					  "img/"))
-	  (kill-buffer (current-buffer)))))))
+      (let* ((url (match-string 0))
+	     (file (expand-file-name (concat (sha1 url) ".jpeg")
+				     "img/")))
+	(unless (file-exists-p file)
+	  (with-current-buffer (url-retrieve-synchronously url)
+	    (goto-char (point-min))
+	    (re-search-forward "\n\n")
+	    (write-region (point) (point-max) file)
+	    (kill-buffer (current-buffer))))))))
 
 (defun album-create-svg ()
-  (let* ((width 1400)
-	 (height 1500)
+  (album-download-images)
+  (let* ((width 2800)
+	 (height 4000)
 	 (svg (svg-create width height))
 	 (artnum 0)
-	 (left-space 100))
+	 (left-space 200))
     (svg-rectangle svg 0 0 width height
 		   :fill "#101010")
     (cl-loop for x from 20 upto 74 by 5
 	     for xp = (+ left-space (* (/ (- x 10) 65.0) (- width left-space)))
-	     do (svg-line svg xp 100 xp (- height 40)
+	     do (svg-line svg xp 200 xp (- height 80)
 			  :stroke "#e0e0e0")
 	     (svg-text svg (format "%d" x)
 		       :font-family "futura"
 		       :text-anchor "middle"
-		       :font-size 20
+		       :font-size 40
 		       :fill "white"
 		       :x xp
-		       :y 80))
+		       :y 160))
     (with-temp-buffer
       (insert-file-contents "albums.txt")
       (while (not (eobp))
 	(when (looking-at "\\([0-9]+\\) \\(.*\\)")
 	  (let ((birth (string-to-number (match-string 1)))
 		(person (match-string 2))
-		(yp (+ (* artnum 60) 100)))
+		(yp (+ (* artnum 120) 200)))
 	    (svg-text svg person
 		       :font-family "futura"
 		       :text-anchor "front"
-		       :font-size 20
+		       :font-size 40
 		       :fill "white"
-		       :x 40
-		       :y (+ yp 30))
+		       :x 80
+		       :y (+ yp 60))
 	    (forward-line 1)
 	    (while (looking-at "\\([ *]\\);\\([0-9]+\\);[^;]+;\\(.*\\)")
 	      (let* ((year (string-to-number (match-string 2)))
@@ -75,17 +77,17 @@
 			       (- width left-space)))))
 		(if (string= best " ")
 		    (svg-embed svg image "image/jpeg" nil
-			       :width 50
-			       :height 50
+			       :width 100
+			       :height 100
 			       :x xp
 			       :y yp)
-		  (svg-rectangle svg xp yp 50 50
+		  (svg-rectangle svg xp yp 100 100
 				 :fill "#00e000")
 		  (svg-embed svg image "image/jpeg" nil
-			     :width 40
-			     :height 40
-			     :x (+ xp 5)
-			     :y (+ yp 5))))
+			     :width 80
+			     :height 80
+			     :x (+ xp 10)
+			     :y (+ yp 10))))
 	      (forward-line 1))
 	    (cl-incf artnum)))
 	(forward-line 1)))
