@@ -1,5 +1,7 @@
 ;;; -*- lexical-binding: t; -*-
 
+(require 'svg)
+
 (defun album-get-data ()
   (interactive)
   (let ((dom (with-temp-buffer
@@ -59,12 +61,12 @@
 		(person (match-string 2))
 		(yp (+ (* artnum 120) 200)))
 	    (svg-text svg person
-		       :font-family "futura"
-		       :text-anchor "front"
-		       :font-size 40
-		       :fill "white"
-		       :x 80
-		       :y (+ yp 60))
+		      :font-family "futura"
+		      :text-anchor "front"
+		      :font-size 40
+		      :fill "white"
+		      :x 80
+		      :y (+ yp 60))
 	    (forward-line 1)
 	    (while (looking-at "\\([ *]\\);\\([0-9]+\\);[^;]+;\\(.*\\)")
 	      (let* ((year (string-to-number (match-string 2)))
@@ -95,7 +97,3 @@
       (set-buffer-multibyte nil)
       (svg-print svg)
       (write-region (point-min) (point-max) "artists.svg"))))
-
-    
-
-
