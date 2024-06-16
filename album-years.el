@@ -45,6 +45,8 @@
 	     (svg-text svg (format "%d" x)
 		       :font-family "futura"
 		       :text-anchor "middle"
+		       :font-size 20
+		       :fill "white"
 		       :x xp
 		       :y 80))
     (with-temp-buffer
@@ -57,6 +59,8 @@
 	    (svg-text svg person
 		       :font-family "futura"
 		       :text-anchor "front"
+		       :font-size 20
+		       :fill "white"
 		       :x 40
 		       :y (+ yp 30))
 	    (forward-line 1)
