@@ -5,7 +5,7 @@
 *;1980;Remain In Light;https://i.discogs.com/zDMEFMBLb9j8gqtksqWBkib83fxR20okzOTesKtUCQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ5/MS0xNTQxOTQ1NDcy/LTQ3OTUuanBlZw.jpeg
 *;1981;My Life In The Bush Of Ghosts;https://i.discogs.com/1bZVafWZR90ZNSPn9wgS--2McTS4CG3VILr1bu_NkNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg0/NDUtMTM0Mjk4Njkz/MS0xNjI3LmpwZWc.jpeg
 *;1981;Songs From The Broadway Production Of "The Catherine Wheel";https://i.discogs.com/vWRkIz16z8EXpKRxV1-WvB5R-d7-Ve1NfV1eUn8ztgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY5/OTQtMTQ3NjEyNzE2/Ny02ODU3LmpwZWc.jpeg
- ;1982;Speaking In Tongues;https://i.discogs.com/7_0Fq27p_8Ed79-niTKKrKRSsPJHDuu0AfE1odFoLWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcx/OS0xNDM3NDU0NzA4/LTQ4OTQuanBlZw.jpeg
+*;1982;Speaking In Tongues;https://i.discogs.com/7_0Fq27p_8Ed79-niTKKrKRSsPJHDuu0AfE1odFoLWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcx/OS0xNDM3NDU0NzA4/LTQ4OTQuanBlZw.jpeg
  ;1985;Little Creatures;https://i.discogs.com/raZnI8v3Le6edSlDu2CeGrr7YFBrqMD5JgPydkNnHAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDE4/Mi0xMzMxMDgwMzg2/LmpwZWc.jpeg
 *;1985;Music For The Knee Plays;https://i.discogs.com/ORyf6Iq1beyW5MIzuKOx_XK8W7FIlfEZy5YUIGT9P1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDA1/Ny0xNDkxNzgzNjQx/LTY4NDkuanBlZw.jpeg
  ;1986;True Stories;https://i.discogs.com/Awhd5IlrHSGSXCLRhrtaXxdeKL-BkBuJxvLg7Y6Rxz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTM4/Mi0xNjE5Mjg5NjU0/LTc2NDcuanBlZw.jpeg
@@ -48,8 +48,8 @@
 *;1983;The Walk;https://i.discogs.com/K85odmDQeWIoaBh2RhbxpwyQzFoJIqVZF84KTOyfDCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyOTE4/MC0xNDM4ODE1NTAw/LTcwMjguanBlZw.jpeg
 *;1984;The Top;https://i.discogs.com/YnJLm4lLruCEWZZgnpnX1cMqirPXs9HRnFil4e3g5Pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDc3/My0xNDc0MzY1NjAy/LTY2MDMuanBlZw.jpeg
 *;1985;The Head On The Door;https://i.discogs.com/YikUQPgamSFVvB_p3q_Rup1IrxBD1ocrOUVqnBcp3gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjQ1/My0xMzM1NTU5MTYx/LmpwZWc.jpeg
- ;1987;Kiss Me Kiss Me Kiss Me;https://i.discogs.com/OH0ieWMJ0bojquDX1GSVeQhHSlkT8V1QVoYsRjtbvyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg0/NzEtMTcwMzI0NDQx/Ni00MjE3LmpwZWc.jpeg
- ;1989;Disintegration;https://i.discogs.com/tTVfliAskVeplnIb80hTjEtGZsPr0jdVZOgmAbwB5Ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU4/My0xMTcyNDI2MTgx/LmpwZWc.jpeg
+*;1987;Kiss Me Kiss Me Kiss Me;https://i.discogs.com/OH0ieWMJ0bojquDX1GSVeQhHSlkT8V1QVoYsRjtbvyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg0/NzEtMTcwMzI0NDQx/Ni00MjE3LmpwZWc.jpeg
+*;1989;Disintegration;https://i.discogs.com/tTVfliAskVeplnIb80hTjEtGZsPr0jdVZOgmAbwB5Ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDU4/My0xMTcyNDI2MTgx/LmpwZWc.jpeg
  ;1992;Wish;https://i.discogs.com/tlzwpaIEcciExXStVSEkjrI4dhSEmCyryfgokuNJxm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NDI5/NS0xNTYzNzE2MDA4/LTEyNTEuanBlZw.jpeg
  ;2000;Bloodflowers;https://i.discogs.com/WrsklNWEhJZ1zAx3ojR8RZ4wsi3ikSh4AlV1HUAE8hU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODc0/Ni0xMjk1MDgzODMy/LmpwZWc.jpeg
  ;2003;The Cure;https://i.discogs.com/NO9J5iSP3XsCRQ0HjmMg5HBVLuEMhOdAgkcVqYbYu1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTUw/NzQzLTE2NzE4Mjg2/NTEtMjc0OC5qcGVn.jpeg
@@ -69,7 +69,7 @@
 *;1977;"Heroes";https://i.discogs.com/JwaX2v-kGJX56v3hkVx2rCe6he9ZRzZ4FuYgy4mgxXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYx/MjMtMTY1MzU1NDM5/OC0zNzY3LmpwZWc.jpeg
 *;1979;Lodger;https://i.discogs.com/PmSM1WakRu6JhGM06r0uWbZrXYBSQKbWS822bkwPqAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjE2/Ny0xMzQ4NDIzMzYy/LTEwNDcuanBlZw.jpeg
 *;1980;Scary Monsters;https://i.discogs.com/gEPu1mKWWJQSwtB5criLHjUfHPLpKvSHMAa2pN2F-W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzA1/Ni0xNDc5NjM4MTMx/LTgwNTkuanBlZw.jpeg
- ;1983;Let's Dance;https://i.discogs.com/8cD1BQNM6TcevQ7EElPjx4dDYSEOmqsEDMeJUQiM8pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjA4/NC0xMjc1NjI1MTky/LmpwZWc.jpeg
+*;1983;Let's Dance;https://i.discogs.com/8cD1BQNM6TcevQ7EElPjx4dDYSEOmqsEDMeJUQiM8pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjA4/NC0xMjc1NjI1MTky/LmpwZWc.jpeg
  ;1984;Tonight;https://i.discogs.com/0Ndw-KjVB1gQSwyEOU5Brk135McHeQygECZ1trNbl1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDE3/My0xMzQ1NDU4NTIy/LTE2NDMuanBlZw.jpeg
  ;1987;Never Let Me Down;https://i.discogs.com/fVdl5oYRtO1U2uKpkb9OGqyl3i0oP9xZGgsviGchTTM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mzk3/NzEtMTQ5MDE5Mzg2/NS03ODgwLmpwZWc.jpeg
  ;1993;The Buddha Of Suburbia;https://i.discogs.com/Pfi9u1vzkuxNslrFzb4b8d0qq0KBpVFBaAoqYyF9oN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzQz/Mi0xMTU1MzI0NTI3/LmpwZWc.jpeg
@@ -180,7 +180,7 @@
 *;1978;Peter Gabriel;https://i.discogs.com/Hp5zJmW-otOQyPE7gBYDs5qVjSN0OpOAfoNLhamrr88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Njk0/My0xNjI3NjU5MDE1/LTU1MjMuanBlZw.jpeg
 *;1980;Peter Gabriel;https://i.discogs.com/XUkyzgqAUi9AT-KltdWRRAXHaE0HFmy0iGyxVq3Dbk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTAy/OC0xMTU5NjIyNjYx/LmpwZWc.jpeg
 *;1982;Peter Gabriel;https://i.discogs.com/e8L3MR2kuc_NZvIakXEw7IN03hIM9aToKsTwjtXTsLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDkz/My0xMjgzMTk2OTA5/LmpwZWc.jpeg
- ;1986;So;https://i.discogs.com/eCm3VWqfXx8yz-ikk7cEt6lqJMTmss3ReIcqtz1Bb40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTAz/Ni0xMjc1NjMyMzA5/LmpwZWc.jpeg
+*;1986;So;https://i.discogs.com/eCm3VWqfXx8yz-ikk7cEt6lqJMTmss3ReIcqtz1Bb40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTAz/Ni0xMjc1NjMyMzA5/LmpwZWc.jpeg
  ;1992;Us;https://i.discogs.com/z4opFieleoaAj3glfAE2j7HmiNakXsc8ZnmnEJ18pOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2ODcz/MDEtMTM5OTkyNzUx/NC01Mjc0LmpwZWc.jpeg
  ;2000;OVO;https://i.discogs.com/EXEcMLh7dMLn9ZHmvapD1Jb3n3bgxn1xBpRdVTg1rH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTI4/Ny0xMzI1MjgwMzkz/LmpwZWc.jpeg
  ;2002;Up;https://i.discogs.com/9RGxLWFR0d9078IJrH8opwXcCeyJo0pCwCg7pUJabo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzE4/MS0xMTU1Mjk5NzMy/LmpwZWc.jpeg
@@ -350,7 +350,7 @@
 *;1988;Surfer Rosa;https://i.discogs.com/-1NHndPvKUtYWo61NQ-vP22Sfvk_6WqnwYHb61oUF3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTM1/NS0xMjUyMzE2ODIz/LmpwZWc.jpeg
 *;1989;Doolittle;https://i.discogs.com/_yfYQwKZTVpb9xNW3PCwuuGOxyU7RZpP6jKZ-dPlKVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDU5/MDYtMTM5NjEzNjAx/NS0yMjM3LmpwZWc.jpeg
 *;1990;Bossanova;https://i.discogs.com/upqHA4g80k7Do5hjI5M6Zl88jAh8FHSdKNS-kOgmvPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDU3/NC0xMTQ1MDk1NjU2/LmpwZWc.jpeg
- ;1991;Trompe Le Monde;https://i.discogs.com/FaXSm3PUuORojoSzsgMKPIQFTNJuBXzCAPRrxhJDJbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTM4/My0xMTA0NjA2Njg3/LmpwZw.jpeg
+*;1991;Trompe Le Monde;https://i.discogs.com/FaXSm3PUuORojoSzsgMKPIQFTNJuBXzCAPRrxhJDJbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTM4/My0xMTA0NjA2Njg3/LmpwZw.jpeg
  ;2002;Pixies;https://i.discogs.com/zIq-7frf0XOuSiBPL6C_K1WbilXtfi7WsKJreViqZWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTcx/Ni0xMTUyMzQwNTky/LmpwZWc.jpeg
  ;2014;Indie Cindy;https://i.discogs.com/9Fwjn-r6RfKWtcggKZXXZauliwsSe9babZTJdDFR7NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDc3/ODctMTM5ODg4Nzk2/Mi04NTA0LmpwZWc.jpeg
  ;2016;Head Carrier;https://i.discogs.com/Ol7RdK4mwCaXUS-2T-9KuALl5fe3U09XNGJmfFMoYIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTE5/NzctMTQ3ODEwOTk5/MS00NzE0LmpwZWc.jpeg
