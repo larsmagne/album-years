@@ -511,3 +511,15 @@
  ;2015;Rebel Heart;https://i.discogs.com/IKQrg1yM9ZbQCDulWdLO4PO8f6K2qqXLpvOQ7ZDnvpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTkz/MTUtMTQyNjAyNjQ3/OC05MDA2LmpwZWc.jpeg
  ;2019;Madame X;https://i.discogs.com/-_rU4kO4PM6k8QvhEiaOO26thyJShfZgbBZPgigzHUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ5/MjExLTE1NjA2MDEz/MjMtMTc0Mi5qcGVn.jpeg
 
+1969 PJ Harvey
+*;1992;Dry;https://i.discogs.com/MJLLvdCuR75wxHjMgK-wStLuJpBmQzVIOjggCJl2My0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDUx/NS0xNDA3MTUzMTY0/LTQxMDQuanBlZw.jpeg
+*;1993;Rid Of Me;https://i.discogs.com/5ErRAsWvOEmx0td15dn8o21RWGuGgmSbn9JApCUiZ9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNTUz/NS0xNzE1MjAwMDUy/LTYyODIuanBlZw.jpeg
+*;1995;To Bring You My Love;https://i.discogs.com/2dBdwR4fTYCc6q6O883Mzbj8kIjsAPr-CJkNPjXdOk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODU0/MDUtMTUwNjI3ODU3/My03NDkyLmpwZWc.jpeg
+*;1998;Is This Desire?;https://i.discogs.com/9-7-cYoikNyGCGcTV1_fraQ5DoxcWCy-0wvCZXIwmgo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg1/My0xNDQ2MDAwMDA1/LTk0NTUucG5n.jpeg
+*;2000;Stories From The City, Stories From The Sea;https://i.discogs.com/V9SoUovYs1A941wXnm3AvApdLzGSzQG-SSPQ_94ALF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/Mi0xMjQ4NDg3ODE0/LmpwZWc.jpeg
+ ;2004;Uh Huh Her;https://i.discogs.com/OIVfxSFo8KNyeRiVfpAho5g2T-TsjjAMxyjNj0NbSQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDAx/NS0xMjc3MjM5MzY4/LmpwZWc.jpeg
+ ;2007;White Chalk;https://i.discogs.com/WFQ1NTULVViyYLTw3OxCzVYhd3WzSegD757--VfXi-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAx/NDQtMTQ4NjM2Nzk0/MC04MDc2LmpwZWc.jpeg
+ ;2009;A Woman A Man Walked By;https://i.discogs.com/6Jve8A-YEqlVvsUfDUWlPxreXfE1Q7IkODqHV-GxR-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAw/OTItMTI1NjY3NDUz/Ny5qcGVn.jpeg
+ ;2011;Let England Shake;https://i.discogs.com/rA1m39fQVBnMqkojZRy0K1xSI3i8sl9a0ou6qVdTnQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDk4/NTEtMTMwODE2MjMz/OC5qcGVn.jpeg
+ ;2016;The Hope Six Demolition Project;https://i.discogs.com/n4lLLled0C0sx-b1piPLRtVRkn-EBou8h9arMjnwISE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODM2/NjQtMTQ2MDczNTk5/My0xNjM4LmpwZWc.jpeg
+ ;2023;I Inside The Old Year Dying;https://i.discogs.com/ouPAjeVYNrh7eQ9hIzV-j5nru1vWWRMUXJGV5KFN9rM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTg0/MTc1LTE2ODg1Mzg2/MzItNzU3MS5qcGVn.jpeg
